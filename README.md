@@ -1,9 +1,9 @@
-# The-atom-animation
+# Custom Context Menu
+
 #### by me => Youssef ElQayedy يوسف القائدي
-use css file or scss file, it sames thing.
-#
-if you want my services:
-- gmail: elqayedycontact@gmail.com
-- instagram: @itsimplecode for code.
-- facebook: @itsimplecode
-- twitter: null
+
+if you want my services contact me:
+
+-   gmail: elqayedycontact@gmail.com
+-   instagram: @itsimplecode.
+-   facebook: @itsimplecode.
